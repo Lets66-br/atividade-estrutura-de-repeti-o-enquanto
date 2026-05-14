@@ -1,0 +1,17 @@
+programa {
+  funcao inicio() {
+    real algoritmo = 0.0
+
+    enquanto(algoritmo<=5){
+      escreva("\n algoritmo")
+
+      algoritmo = algoritmo + 1
+
+
+
+
+    }
+
+    
+  }
+}
