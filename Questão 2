@@ -1,0 +1,17 @@
+programa {
+  funcao inicio() {
+    real numero = 10
+    
+
+    enquanto(numero>=0){
+      escreva("\n seu numero é ", numero)
+      
+
+      numero = numero - 1
+
+      
+
+    }
+    
+  }
+}
