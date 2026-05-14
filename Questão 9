@@ -1,0 +1,19 @@
+programa {
+  funcao inicio() {
+    inteiro numero, contador = 1, totalp = 0
+
+    enquanto(contador<=10){
+      escreva("Digite o número: ")
+      leia(numero)
+      se (numero == 0 ou numero == 2 ou numero == 4 ou numero == 6 ou numero == 8){
+          totalp = totalp + 1
+      }
+      contador = contador + 1
+    }
+
+      escreva("\nTotal de números pares: ", totalp)
+  
+    
+    
+  }
+}
