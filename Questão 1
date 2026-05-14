@@ -1,0 +1,17 @@
+programa {
+  funcao inicio() {
+    real numero = 1.0
+    
+
+    enquanto(numero<=10){
+      escreva("\n seu numero é ", numero)
+      
+
+      numero = numero + 1
+
+      
+
+    }
+    
+  }
+}
